@@ -28,20 +28,16 @@ A 1337-day intensive coding bootcamp (Piscine) completed at 1337 School, coverin
 ## What is the Piscine?
 The 1337 Piscine is a 4-week intensive selection process at 1337 School. It consists of:
 
-Daily C exercises submitted via git
-Weekly exams under timed conditions
-Weekend rush group projects
-Peer-to-peer evaluation
+- Daily C exercises submitted via git
+- Weekly exams under timed conditions
+- Weekend rush group projects
+- Peer-to-peer evaluation
 
 No teachers, no tutorials — only documentation, peers, and determination.
 
 ## With What i Built?
 
-C (C99)
-cc / gcc compiler
-1337 Norm compliant code
-Git for daily submissions
-
-
-📄 License
-This repository is for learning and portfolio purposes. Feel free to explore the code.
+- C (C99)
+- cc / gcc compiler
+- 1337 Norm compliant code
+- Git for daily submissions
