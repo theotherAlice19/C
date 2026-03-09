@@ -1,7 +1,9 @@
 # C00 — Basic Output & Combinations
 
-> **Day 00 of the 1337 C Piscine**
-> First contact with C: using `write()` directly, printing characters, digits, and generating combinations with nested loops. **Succeed = 85/100**
+**Day 00 of the 1337 C Piscine**
+
+First contact with C: using `write()` directly, printing characters, digits, and generating combinations with nested loops. **Succeed = 85/100**
+
 ## Exercises
 
 ### ex00 — `ft_putchar`
@@ -82,3 +84,4 @@ All exercises in C00 only allow: **`write`**
 ```bash
 cc -Wall -Wextra -Werror -o out ft_putchar.c
 ```
+
