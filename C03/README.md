@@ -38,3 +38,4 @@ Reproduce the behavior of `strncat`. Appends at most `nb` characters from `src` 
 ```bash
 cc -Wall -Wextra -Werror -o out ft_strcmp.c
 ```
+
