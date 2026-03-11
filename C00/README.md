@@ -83,7 +83,3 @@ All exercises in C00 only allow: **`write`**
 ## Compilation
 ```bash
 cc -Wall -Wextra -Werror -o out ft_putchar.c
-```
-
-
-
